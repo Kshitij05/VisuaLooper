@@ -6,7 +6,7 @@ VisuaLooper is a Python program that lets you loop your guitar audio using Audac
 
 <h2> How to Use VisuaLooper? </h2> 
 
-VisuaLooper detects the tuner attached to the headstock of your guitar, and uses it to detect the tilt. So grab your tuner (preferably blue, but the HSV range for tuner colour can be changed in the python code), download visualooper.py along with <a href="https://www.audacityteam.org/"> Audacity </a>, and you're ready to jam! 
+VisuaLooper detects the tuner attached to the headstock of your guitar, and uses it to detect the tilt. So grab your tuner (preferably blue, but the HSV range for tuner colour can be changed in the python code), download visualooper.py along with <a href="https://www.audacityteam.org/"> Audacity</a>, and you're ready to jam! 
 
 Tutorial and further description coming up shortly! 
 
