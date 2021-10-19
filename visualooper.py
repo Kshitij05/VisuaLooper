@@ -76,6 +76,7 @@ while True:
 
 
     # sorting the contours in ascending order
+    # test comment
     contours = sorted(contours, key=lambda x: cv2.contourArea(x), reverse=True)
     contours_2 = sorted(contours_2, key=lambda x: cv2.contourArea(x), reverse=True)
 
