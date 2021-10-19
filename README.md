@@ -2,7 +2,7 @@
 Loop your guitar audio just by tilting your guitar 
 
 <h2> What is VisuaLooper? </h2> 
-VisuaLooper is a Python program that lets you loop your guitar audio using Audacity and Computer Vision 
+VisuaLooper is a Python program that lets you loop guitar audio using Audacity and Computer Vision 
 
 <h2> How to Use VisuaLooper? </h2> 
 
